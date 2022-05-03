@@ -1,6 +1,6 @@
 ## <ins>Introduction</ins>
 
-A calculator done with [Java FX](https://openjfx.io/) and [Scene builder](https://gluonhq.com/products/scene-builder/). This project is still under work. :)
+A calculator done with [Java FX](https://openjfx.io/) and [Scene builder](https://gluonhq.com/products/scene-builder/).
 
 #### <ins>Source codes
 
